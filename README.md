@@ -78,7 +78,7 @@ Contributions are welcome. Submit pull requests for improvements or create issue
 
 ## Notice
 
-Project might be delayed due to shortage of money. I will be happy to accept any donation
+Project might be delayed due to shortage of money. I will be happy to accept any donation. I will accept paymant through swift pay(Contact me for more info).
 
  ---
 
