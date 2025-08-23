@@ -76,6 +76,12 @@ Contributions are welcome. Submit pull requests for improvements or create issue
 
 ---
 
+## Notice
+
+Project might be delayed due to shortage of money. I will be happy to accept any donation
+
+ ---
+
 ## License
 
 See the `licenses/` folder for licensing details.
