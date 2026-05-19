@@ -1,3 +1,6 @@
+# ⚠ This project is at halt. Willl be continued after a complete budget. 
+
+
 # The-Doom: Portable Cyber Lab for Ethical Hacking and RF Interception
 
 **The-Doom** is an open-source cyber research kit designed for education, training, and ethical testing. It combines low-cost hardware like Orange Pi and ESP32 with powerful tools for Wi-Fi auditing, SDR signal capture, and IoT device analysis.
